@@ -1,0 +1,54 @@
+{
+   "checksum": "ce3a37291b7a0c65d2906bae0497506e",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13386566498478330",
+            "date_last_used": "0",
+            "guid": "b8e13311-77e8-4e54-8d9c-79ca3962bce6",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Kotlin Examples: Learn Kotlin Programming By Example",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://play.kotlinlang.org/byExample/01_introduction/02_Functions",
+            "visit_count": 1
+         } ],
+         "date_added": "13411498496083807",
+         "date_last_used": "0",
+         "date_modified": "13386566498478330",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barre des favoris",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13411498496083807",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Autres favoris",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13411498496083807",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoris de l’appareil mobile",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCKR/m72ZAQAAEgAqGHEyKzd1TWRvWnA2aE1ENkxBdHFvN1E9PUgDoAYHEo4BCAESiQEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJDlkMGZiODlhLTA0YTQtNWIyZi1iZDhhLTMzODk5YTc4ZGU2MxgAIAAoADC0wPrw9zA4icL68PcwQInC+vD3MEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAADCPgJgABKOAQgCEokBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiQ0MmMyOWE0ZC05MjgyLTU2ZGEtYWI0Yy1kNWZhODlkOGQyOWQYACAAKAAwtcD68PcwOKLC+vD3MECiwvrw9zBKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAwj4CYAASrAEIBhKnAQocQ0FWUGpvOXovY1BlY3hCQlFqek1JME5SYlNNPRIkYjhlMTMzMTEtNzdlOC00ZTU0LThkOWMtNzljYTM5NjJiY2U2GAAgACgAMPW585LcMjibvvOS3DJAm77zktwyShxZRXBabmFHTWtrMlFFdFBJYzZLcVFyWmUvcGM9Wh4iHGhDa0NWVk04cWhkQVRjVDRmenZkZHVsMDI0OD1lPklDD8I+AmAFEo4BCAMSiQEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJDI5Y2UxNDFkLTBhMzktNTFkZS1iODBmLTQwZDQ3MWE3MTgyYxgAIAAoADC6wPrw9zA4psP68PcwQKbD+vD3MEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAADCPgJgADAAOAA=",
+   "version": 1
+}
